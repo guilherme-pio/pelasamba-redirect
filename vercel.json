@@ -6,6 +6,16 @@
       "permanent": false
     },
     {
+      "source": "/desconto",
+      "destination": "https://0mr5cqw.short.gy/4jmhy8",
+      "permanent": false
+    },
+    {
+      "source": "/cupom",
+      "destination": "https://0mr5cqw.short.gy/ja4xu7",
+      "permanent": false
+    },
+    {
       "source": "/aniversarios",
       "destination": "https://api.whatsapp.com/send/?phone=5531933006862&text=Ol%C3%A1%21+Gostaria+de+comemorar+meu+anivers%C3%A1rio+no+PelaSamba%2C+dia+11%2F04%2C+no+Layback%21&type=phone_number&app_absent=0&utm_source=ig",
       "permanent": false
