@@ -2,12 +2,12 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://centraldoseventos.com.br/pelasamba14anos",
+      "destination": "https://centraldoseventos.com.br/pela-setembro",
       "permanent": false
     },
     {
       "source": "/aniversarios",
-      "destination": "https://api.whatsapp.com/send/?phone=5531933006862&text=Ol%25C3%25A1%21%2520Gostaria%2520de%2520comemorar%2520meu%2520anivers%25C3%25A1rio%2520no%2520PelaCopa%2520%25F0%259F%2587%25A7%25F0%259F%2587%25B7&type=phone_number&app_absent=0&utm_source=ig",
+      "destination": "https://wa.me/5531933006862?text=Quero%20comemorar%20meu%20anivers%C3%A1rio%20no%20Pela",
       "permanent": false
     },
     {
